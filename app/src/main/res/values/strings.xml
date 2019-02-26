@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Incidencias informáticas - Álvaro Rueda Jiméez</string>
+    <string name="title_activity_crear_usuario_fragment">CrearUsuarioFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_iniciar_sesion">IniciarSesion</string>
+</resources>
